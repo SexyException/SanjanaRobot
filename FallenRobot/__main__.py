@@ -89,6 +89,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="ᴄʜᴀᴛ ɢʀᴏᴜᴘ⚡️", url=f"https://t.me/ll_romance_house_ll"),
     ],
     [
         InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
